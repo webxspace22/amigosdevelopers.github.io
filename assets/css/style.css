@@ -1916,3 +1916,49 @@ footer .copyright-footer {
 footer .credits {
   font-size: 14px;
 }
+/*--------------HEADER--------------------------*/
+/*#navbar .logo {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+
+}
+#navbar .logo a {
+  color: #fff;
+}
+#navbar .logo img {
+  max-height: 40px;
+}
+#navbar .logo h1 {
+  font-size: 36px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  /*font-weight:bold;*/
+}
+/*#navbar .logo h1 span {
+  color: #3ec1d5;
+}
+#navbar .logo h1 a, #navbar .logo h1 a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+#navbar .logo img {
+
+  padding: 0;
+  margin: 0;
+  max-height: 40px;
+}
+@media (max-width: 768px) {
+  #navbar {
+    height: 64px;
+    background: rgba(0, 0, 0, 0.8);
+  }
+  #navbar .logo h1 {
+    font-size: 28px;
+  }
+}*/
